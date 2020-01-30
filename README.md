@@ -1,4 +1,4 @@
-# EksamensPortef-lje
+# Portefølje til eksamen
 portefølje til eksamen
 
 Oprettelse af portefølje så underviserne kan holde øje med hvad der sker.
