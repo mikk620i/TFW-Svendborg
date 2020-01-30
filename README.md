@@ -5,6 +5,7 @@ Oprettelse af portefølje så underviserne kan holde øje med hvad der sker.
 
 
 Skal havet fundet materiale på vores emner.
+
 	- Jeg skal finde ud af hvad der er bedst at gøre for at finde nyttigt materiale.
 	- Researcher for at finde det rigtige materiale.
 Skal havet udarbejdet prioriteringer på PO's krav.
