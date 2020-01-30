@@ -22,9 +22,9 @@ Oprettelse af portefølje så underviserne kan holde øje med hvad der sker.
 - Udarbejde spørgsmål til møde med PO som er i Svendborg så det går der en hel dag med.
 
 **5. Skal havet dannet læringsmål.**
-	- Kigge på tidligere læringsmål.
-	- Udarbejd/Definere læringsmål i løbet af projektet.
-	- Opdatere porteføljen med læringsmål.
+- Kigge på tidligere læringsmål.
+- Udarbejd/Definere læringsmål i løbet af projektet.
+- Opdatere porteføljen med læringsmål.
 
 Generelle læringsmål for 4.semester
 
